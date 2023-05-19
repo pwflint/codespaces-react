@@ -1,4 +1,4 @@
-%% scripts provided by github.com
+<!--- scripts provided by github.com -->
 
 ## Available Scripts
 
