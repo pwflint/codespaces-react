@@ -1,0 +1,20 @@
+import * as React from "react";
+
+export default function Component() {
+  return (
+    <>
+      <Styles />
+      <svg>
+        <path />
+      </svg>
+    </>
+  );
+}
+
+function Styles() {
+  return <style dangerouslySetInnerHTML={{ __html: STYLES }} />;
+}
+
+const STYLES = `
+  .css-gui-17q01os{fill:#000000cc;}
+`
