@@ -10,7 +10,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #2f3849;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,11 +21,7 @@
 }
 
 .App-link {
-  color: #61dafb;
-}
-
-.heart {
-  color: #ff0000;
+  color: #64c5e0;
 }
 
 .small {
