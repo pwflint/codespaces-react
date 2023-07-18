@@ -1,5 +1,5 @@
 import './App.css'; 
-import './NewFunction';
+import './NewFunction.js';
 
 function App() {
   return (
@@ -27,4 +27,8 @@ function App() {
   );
 }
 
-export default App;
+export default function App() {
+  return (
+    <NewFunction />
+  );
+}
